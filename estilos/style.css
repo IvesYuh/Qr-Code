@@ -10,6 +10,16 @@
     .footer { width:100%; }
     }
 
+    @media only screen and (max-device-width: 300px) {
+        * { width:20%; }
+        .body { width:20%; }
+        .square { width:20%; }
+        .img { width:20%; }
+        .subtitle { width:20%; }
+        .text { width:20%; }
+        .footer { width:20%; }
+        }
+
 *{
     background-color:#D6E2F0;  
 }
