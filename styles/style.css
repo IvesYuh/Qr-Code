@@ -21,16 +21,14 @@ body{
     justify-content: space-around;
     align-items: center; 
     background-color: white;
-    margin-left: 23px;
-    margin-right: 23px;
     padding-left: 18px;
-    padding-right:17px ;
+    padding-right:18px;
+    max-width: 415px;
 }
 
 .img{
     border-radius:15px;
     padding-top:18px;
-    
 }
 
 .subtitle{
@@ -40,8 +38,6 @@ body{
     color: #1F3251;
     text-align: center;
     padding-top: 9px;
-    padding-right: 31px;
-    padding-left: 30px;
 }
 
 .text{
@@ -52,8 +48,6 @@ body{
     text-align: center;
     padding-top: 19px;
     padding-bottom: 45px;
-    padding-left: 36px;
-    padding-right: 36px;
 }
 
 
