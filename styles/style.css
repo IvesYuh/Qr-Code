@@ -21,9 +21,7 @@ body{
     justify-content: space-around;
     align-items: center; 
     background-color: white;
-    padding-left: 18px;
-    padding-right:18px;
-    max-width: 415px;
+    max-width: 300px;
 }
 
 .img{
@@ -50,7 +48,6 @@ body{
     padding-bottom: 45px;
 }
 
-
 .footer{
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
@@ -59,4 +56,3 @@ body{
     text-align: center;
     padding-top: 9px; 
 }
-
